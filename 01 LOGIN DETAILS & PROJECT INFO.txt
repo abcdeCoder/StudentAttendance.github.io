@@ -1,0 +1,27 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: studentattdb**
+
+**Developed by Mohit Khedkar, Megha Pal, Rutuja Vetal, Niraj Patil**
+
+**Recommended PHP Version 5.6.3 and 7.4.12**
+
+
+**Teacher Login Details**
+
+Username: karen
+Password: password
+
+Username: collin
+Password: password
+
+Username: jesse
+Password: password
+
+**Student Details**
+
+Rol No. 14
+Rol No. 15
+Rol No. 16
+Rol No. 28
+(for more check student's list)
