@@ -2,10 +2,14 @@
 
 	//  Development connection
 	
-	$databaseHost = 'localhost';
-	$databaseName = 'studentattdb';
-	$databaseUsername = 'root';
-	$databasePassword = '';
+	// $databaseHost = 'localhost';
+	// $databaseName = 'studentattdb';
+	// $databaseUsername = 'root';
+	// $databasePassword = '';
+	$databaseHost = 'remotemysql.com';
+	$databaseName = 'WeK7M8k2Ov';
+	$databaseUsername = 'WeK7M8k2Ov';
+	$databasePassword = 'o40l4XFbgS';
 
 	// remote Database connection
 	
