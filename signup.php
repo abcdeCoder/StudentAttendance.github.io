@@ -69,13 +69,9 @@
     				<input type="checkbox" name="Terms" required> &nbsp; I accept the terms and conditions
     		</div>
     		<!--Terms and Conditions------>
+<!---Submit Button------>
+<input type="Submit" name="Submit" class="submit" value="SUBMIT">
 
-
-
-    		<!---Submit Button------>
-    		<div class="box" style="background: #2d3e3f">
-    				<input type="Submit" name="Submit" class="submit" value="SUBMIT">
-    		</div>
     		<!---Submit Button----->
       </form>
   </div>
