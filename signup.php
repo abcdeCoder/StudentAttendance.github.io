@@ -13,7 +13,7 @@
 	<title>sign up</title>
 </head>
 <body>
-<div class="container">
+<div class="container a">
       <form method="post" action="signup.php"  autocomplete="on" >
 	  <?php 
 	if(isset($_GET['msg']))
