@@ -46,7 +46,7 @@
             <a href="index.php">Student's Account</a>
         </li>
         <li>
-            <a href="index.php">Student's Account</a>
+            <a href="signup.php">teacher sign up</a>
         </li>
         
     </ul>
