@@ -6,10 +6,10 @@
 	// $databaseName = 'studentattdb';
 	// $databaseUsername = 'root';
 	// $databasePassword = '';
-	$databaseHost = 'remotemysql.com';
-	$databaseName = 'WeK7M8k2Ov';
-	$databaseUsername = 'WeK7M8k2Ov';
-	$databasePassword = 'o40l4XFbgS';
+	$databaseHost = 'sql6.freesqldatabase.com';
+	$databaseName = 'sql6506164';
+	$databaseUsername = 'sql6506164';
+	$databasePassword = 'em9yPxGIFs';
 
 	// remote Database connection
 	
