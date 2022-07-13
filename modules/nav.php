@@ -45,6 +45,10 @@
         <li>
             <a href="index.php">Student's Account</a>
         </li>
+        <li>
+            <a href="index.php">Student's Account</a>
+        </li>
+        
     </ul>
 </nav>
 <?php endif; ?>
